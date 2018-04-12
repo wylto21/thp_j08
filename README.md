@@ -10,7 +10,7 @@ Durant la 8e Journée de [THP CODE](https://www.thehackingproject.org/code) nous
 
 ### Route de la mairie
 
-Ce projet conciste à scrapper les adresses email des mairies du Val d'Oise à partir de l'url de leur site.
+Ce projet conciste à scrapper les adresses email des mairies du Val d'Oise à partir de l'url de leur site pris dans [l'annuaire des mairies](http://annuaire-des-mairies.com/val-d-oise.html).
 * [city_hall_route.rb]() - Contient le code ruby écrit à cet effet
 
 ### Trader de l'obscur
